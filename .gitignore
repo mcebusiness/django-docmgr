@@ -23,8 +23,6 @@
 # Django essentials
 secret.txt
 dev*.db
-settings_*.py
-HOSTTYPE.INI
 
 # ignore windows thumbnails
 Thumbs.db
@@ -32,4 +30,6 @@ Thumbs.db
 .pylintrc
 wsgi.py
 files/
+
+*.idea/*
 
